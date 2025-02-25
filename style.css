@@ -1,0 +1,121 @@
+#main-body{
+    height: 50vh;
+    width: 95%;
+    position: absolute;
+    background-color: aliceblue;
+    left: 3%;
+}
+
+#nav-h{
+    font-size: 20px;
+}
+
+#main-con{
+    position: absolute;
+    left: 9%;
+    top: 53px;
+}
+
+#main-p{
+    position: absolute;
+    top: 161px;
+    left: 131px;
+    font-size: 15px;
+}
+
+#main-img{
+    width: 270px;
+    position: absolute;
+    right: 45px;
+    top: 42px;
+}
+
+#column-h{
+    position: absolute;
+    top: 420px;
+    left: 141px;
+    font-size: 30px;
+}
+
+#column-p{
+    position: absolute;
+    bottom: 180px;
+    left: 143px;
+}
+
+#col-container{
+    position: absolute;
+    bottom: 0%;
+    left: 298px;
+    top: 465px;
+
+}
+
+#couch{
+    width: 180px;
+}
+#bed{
+    width: 100px;
+}
+
+#chair{
+    width: 130px;
+}
+
+#about{
+    height: 50vh;
+    width: 100%;
+    position: absolute;
+    background-color: aliceblue;
+    left: 3%;
+    bottom: -400px;
+}
+
+#contact-us{
+    position: absolute;
+    left: 128px;
+    top: 233px;
+    background-color: orange;
+    border-radius: 5px;
+}
+
+#about-us{
+    position: absolute;
+    left: 225px;
+    top: 233px;
+    background-color: lightblue;
+    border-radius: 5px;
+}
+
+#about-img{
+    position: relative;
+    left: 102px;
+    top: 26px;
+}
+
+
+#about-h{
+    position: relative;
+    left: 423px;
+    top: 74px;
+    font-size: 30px;
+}
+
+#about-p{
+    position: relative;
+    left: 423px;
+    top: -124px;
+}
+
+#about-btn{
+    position: relative;
+    left: 423px;
+    top: -130px;
+    border-radius: 5px;
+    background-color: cornflowerblue;
+}
+
+
+.col-4 a{
+    text-decoration: none;
+}
